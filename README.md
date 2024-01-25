@@ -1,16 +1,27 @@
-### Hi there 👋
+# Yuri Thomé
 
-<!--
-**yurithome123/yurithome123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Yuri Thomé, a dedicated student pursuing a technical degree in computing. My passion for technology extends beyond the basics, and I enjoy exploring various areas, particularly focusing on the intricacies of code through challenges and educational reverse engineering.
 
-Here are some ideas to get you started:
+## Achievements
+- 🥇 First place winner at the IFPR Robotics Olympiad 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+I am a Full Stack developer with expertise in the following languages:
+- C#
+- C++
+- Java
+- C
+- Python
+- Lua
+
+## Experience
+I have a diverse range of experience, having worked on projects that include Arduino and more. My commitment to backend development is evident in my proficiency with C#, C++, Java, C, Python and Lua.
+
+## Projects
+I've been involved in numerous projects, showcasing my skills across various technologies. Some highlights include:
+- Find Tallent PREMIUM
+- OS AIYSTEM
+
+## Hobbies
+In my free time, I indulge in my favorite hobby of honing my code-breaking skills through educational challenges.
