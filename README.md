@@ -21,7 +21,7 @@ I have a diverse range of experience, having worked on projects that include Ard
 ## Projects
 I've been involved in numerous projects, showcasing my skills across various technologies. Some highlights include:
 - Find Tallent PREMIUM
-- OS AIYSTEM
+- AIYSTEM OS
 
 ## Hobbies
 In my free time, I indulge in my favorite hobby of honing my code-breaking skills through educational challenges.
