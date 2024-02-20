@@ -20,6 +20,7 @@ I have a diverse range of experience, having worked on projects that include Ard
 
 ## Projects
 I've been involved in numerous projects, showcasing my skills across various technologies. Some highlights include:
+- IPE_AI
 - Find Tallent PREMIUM
 - AIYSTEM OS
 
