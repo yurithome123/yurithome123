@@ -7,12 +7,13 @@ I am Yuri Thomé, a dedicated student pursuing a technical degree in computing. 
 - 🥇 First place winner at the IFPR Robotics Olympiad 2023.
 
 ## Technical Skills
-I am a Full Stack developer with expertise in the following languages:
+Developer with expertise in the following languages:
 - C#
 - C++
 - Java
 - C
 - Python
+- HTML
 - Lua
 
 ## Experience
