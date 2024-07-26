@@ -24,6 +24,7 @@ I've been involved in numerous projects, showcasing my skills across various tec
 - IPE_AI
 - AIYSTEM OS
 - Find Tallent PREMIUM
+- AudiopHmetro
 
 ## Hobbies
 In my free time, I indulge in my favorite hobby of honing my code-breaking skills through educational challenges.
