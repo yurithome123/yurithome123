@@ -4,7 +4,7 @@
 I am Yuri Thomé, a dedicated student pursuing a technical degree in computing. My passion for technology extends beyond the basics, and I enjoy exploring various areas, particularly focusing on the intricacies of code through challenges and educational reverse engineering.
 
 ## Achievements
-- 🥇 First place winner at the IFPR Robotics Olympiad 2023.
+- 🥇 First place winner at the IFPR Robotics Olympiad 2023-2025.
 
 ## Technical Skills
 Developer with expertise in the following languages:
